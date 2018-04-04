@@ -12,7 +12,7 @@ Untuk yang ingin memberikan pertanyaan atau mungkin masukan, silahkan bisa submi
 - [x] [Membangun environment di linux (Ubuntu)](../master/membangun-environment-di-ubuntu.md)
 - [ ] Membangun environment di mac
 - [ ] Membangun environment di Windows
-- [ ] [Contoh sederhana di android real devices](../master/contoh-sederhana-di-android-real-device.md)
+- [ ] Contoh sederhana di android real devices
 - [ ] Contoh sederhana di iOS real devices
 - [ ] Contoh sederhana di android (emulator avd)
 - [ ] Contoh sederhana di iOS (simulator)
